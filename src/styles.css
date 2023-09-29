@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  padding: 30px;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+input {
+  background: #f3f3f3;
+  border: 0;
+  padding: 10px 20px;
+  width: 100%;
+  display: block;
+}
+
+.list-item {
+  padding: 10px 20px;
+  background: #f3f3f3;
+  border-bottom: 1px solid #cccccc;
+}
